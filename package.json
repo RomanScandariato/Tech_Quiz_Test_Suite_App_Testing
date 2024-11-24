@@ -22,5 +22,8 @@
   "devDependencies": {
     "concurrently": "^8.2.2",
     "wait-on": "^7.2.0"
+  },
+  "dependencies": {
+    "@types/bootstrap": "^5.2.10"
   }
 }
